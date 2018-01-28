@@ -1,0 +1,3 @@
+Please enter your name and class in this file below:
+
+EXAMPLE: BRIAN RICHARD SAVAGE PRO-100
