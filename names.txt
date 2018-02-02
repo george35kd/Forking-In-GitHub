@@ -3,3 +3,5 @@ Please enter your name and class in this file below:
 EXAMPLE: BRIAN RICHARD SAVAGE PRO-100
 
 Brian Richard Savage PRO-100
+
+Amie Paige Croteau WEB-240
